@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        lblName.text = "Welcome to my first Page"
+        lblName.text = "Welcome to my first Page of ios"
     
     }
 }
